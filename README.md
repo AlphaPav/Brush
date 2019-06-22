@@ -5,7 +5,7 @@
 - Author: Yuanqing Zhang, Jinkun Zhang, Chulin Xie.
 
 <figure class="half">
-  <img src="pics/ui.png" width="200">
+  <img src="pics/ui.png" width="400">
 </figure>
 
 
